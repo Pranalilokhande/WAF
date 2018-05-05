@@ -1,0 +1,29 @@
+p.double {
+    border-style: double;
+}
+
+.snackbar{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.info { 
+    display: flex;
+    justify-content:space-around;
+    justify-content:center;
+    height: 20px; 
+    position: fixed; 
+    bottom:0%;
+    border-style: double;
+    margin-left: 200px;
+    margin-bottom: 10px;
+    opacity: 1;
+}
+
+.showDiv {
+    display: block;       
+}
+
+.hideDiv{
+    display: none;
+}
