@@ -2,6 +2,10 @@ p.double {
     border-style: double;
 }
 
+.error{
+    color:red;
+}
+
 .snackbar{
     margin-top: 50px;
     margin-left: 50px;
